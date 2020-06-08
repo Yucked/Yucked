@@ -1,0 +1,85 @@
+:root {
+    --primary-color: #fafafa;
+    --secondary-color: #f0f0f0;
+    --font-color: #0f0f0f;
+    --heading-color: #292922;
+    --shadow-color-primary: #bdb8b8;
+    --shadow-color-secondary: #ffffff;
+}
+
+[data-theme="dark"] {
+    --primary-color: #0f0f0f;
+    --secondary-color: #171717;
+    --font-color: #f0f0f0;
+    --shadow-color-primary: #0f0f0f;
+    --shadow-color-secondary: #0f0f0f;
+}
+
+
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent;
+    /* make scrollbar transparent */
+}
+
+html {
+    overflow: scroll;
+    scrollbar-width: none;
+    /* Firefox */
+    -ms-overflow-style: none;
+}
+
+html,
+body {
+    background-color: var(--secondary-color);
+    color: var(--font-color);
+}
+
+.is-hidden {
+    display: none;
+}
+
+.has-shadow {
+    box-shadow: 7px 7px 14px var(--shadow-color-primary);
+}
+
+.has-rounded-corners {
+    border-radius: 20px;
+}
+
+.is-light-pink {
+    background-color: #ffd9ed;
+}
+
+.is-light-blue {
+    background-color: #d9fffe;
+}
+
+.is-light-green {
+    background-color: #daffd9;
+}
+
+.is-light-grey {
+    background-color: #ebd9ff;
+}
+
+.is-light-peach {
+    background-color: #ffebd9;
+}
+
+.is-light-red {
+    background-color: crimson;
+    color: #ffebd9;
+}
+
+.is-light-red>span {
+    color: #ebeced;
+}
+
+.has-padding-10 {
+    padding: 10px;
+}
+
+.has-margin-25 {
+    margin: 25px 0;
+}
