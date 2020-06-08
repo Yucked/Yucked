@@ -43,9 +43,9 @@ function build_repository_html(repositories) {
                 var template = $('#repository_template').clone();
                 template.find('#title').text(value.name);
                 template.find('#description').text(value.description);
-                template.find('#languages').text(value.languages);
-                template.find('#stars').text(value.stargazers);
-                template.find('#forks').text(value.forks);
+                template.find('#languages').text('Languages: ' + value.languages.join(', '));
+                template.find('#stars').text('Stsrs:' + value.stargazers);
+                template.find('#forks').text('Forks:' + value.forks);
                 template.find('#url').attr('href', value.url);
                 template.addClass(color);
                 $('#repository_container').append(template.html());
