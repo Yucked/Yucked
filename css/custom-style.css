@@ -15,23 +15,28 @@
     --shadow-color-secondary: #0f0f0f;
 }
 
-
 ::-webkit-scrollbar {
     width: 0px;
     background: transparent;
-    /* make scrollbar transparent */
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 
 html {
     overflow: scroll;
-    scrollbar-width: none;
-    /* Firefox */
+    scrollbar-width: 5px;
     -ms-overflow-style: none;
 }
 
 html,
 body {
     background-color: var(--secondary-color);
+    color: var(--font-color);
+    font-family: 'VT323', monospace;
+}
+
+a span {
     color: var(--font-color);
 }
 
