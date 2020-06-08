@@ -35,9 +35,11 @@ function fetch_repositories() {
 }
 
 function build_repository_html(repositories) {
+    let colors = ['is-light-pink', 'is-light-blue', 'is-light-green', 'is-light-grey', 'is-light-peach'];
     repositories
         .done(function (data) {
             $.each(data, function (_, value) {
+                var color = colors[Math.floor(Math.random() * colors.length)];
                 var template = $('#repository_template').clone();
                 template.find('#title').text(value.name);
                 template.find('#description').text(value.description);
@@ -45,6 +47,7 @@ function build_repository_html(repositories) {
                 template.find('#stars').text(value.stargazers);
                 template.find('#forks').text(value.forks);
                 template.find('#url').attr('href', value.url);
+                template.addClass(color);
                 $('#repository_container').append(template.html());
             });
         })
