@@ -5,13 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <title>Yuck Home!</title>
-    <link rel="icon" type="image/png" href="imgs/Skull.png" />
+    <link rel="icon" type="image/png" href="../imgs/Skull.png" />
 
     <link rel="stylesheet" href="../css/bulma.min.css">
     <link rel="stylesheet" href="../css/custom-style.css">
     <script type="text/javascript" src="../js/jquery-3.5.1.min.js"></script>
     <script type="text/javascript" src="../js/misc.js"></script>
-    <script type="text/javascript" src="../js/github_api.js"></script>    
+    <script type="text/javascript" src="../js/github_api.js"></script>
 
     <script>
         function set_theme() {
@@ -115,7 +115,7 @@
     <section class="section">
         <div id="profile_container" class="container">
             <section class="is-hidden has-shadow section has-rounded-corners has-margin-25 is-light-pink">
-                <div class="columns is-desktop">
+                <div class="columns is-desktop is-vcentered">
                     <div id="profileCol" class="column is-half has-text-centered">
                         <span id="login" class="title"></span>
                         <hr>
@@ -124,7 +124,9 @@
                         <span id="stats" class="subtitle"></span>
                     </div>
                     <div class="column is-one-third has-text-centered">
-                        <img id="profileImg" class="is-rounded" src="" alt="Logo" width="60%">
+                        <figure class="image is-square">
+                            <img id="profileImg" class="is-rounded" src="">
+                        </figure>                        
                     </div>
                 </div>
             </section>
