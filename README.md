@@ -23,3 +23,4 @@
 - Am I too late to joining Docker's fan club? ⚗️ Experimenting with Docker!
 - 👾 Recently finished Borderlands 3, Far Cry New Dawn and close to finishing Rise of Tomb Raider.~~Release Cyberpunk 2077 already.~~
 - 🖥️ Specs: AMD Ryzen 3900X, Red Devil Radeon RX 5700 XT, G.SKILL Triden 16GB (16, 19, 19, 19?), ASUS TUF Gaming X570 Plus (WIFI)
+- I fricking love pizza 🍕, Pizza gang unite 💪!!
