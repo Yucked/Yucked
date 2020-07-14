@@ -20,7 +20,7 @@
 
 - I'm currently working on writing a Discord API wrapper: [Vysn](https://github.com/Vysn)
 - 🤖 I'm also researching AMD's [ROCm](https://www.amd.com/en/graphics/servers-solutions-rocm-ml) for ML/AI purposes and porting Nvidia CUDA based libraries.
-- Am I too late to joining Docker's fan club? ⚗️ Experimenting with Docker!
+- Am I too late for joining Docker's fan club? ⚗️ Experimenting with Docker ensues!
 - 👾 Recently finished Borderlands 3, Far Cry New Dawn and close to finishing Rise of Tomb Raider.~~Release Cyberpunk 2077 already.~~
 - 🖥️ Specs: AMD Ryzen 3900X, Red Devil Radeon RX 5700 XT, G.SKILL Triden 16GB (16, 19, 19, 19?), ASUS TUF Gaming X570 Plus (WIFI)
-- I fricking love pizza 🍕, Pizza gang unite 💪!!
+- I fricking lub pessha 🍕, Pizza gang unite 💪!!
