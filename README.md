@@ -10,7 +10,7 @@
 	    <img src="https://img.shields.io/badge/Add%20Me%20On%20Discord-7289DA?logoColor=white&logo=discord&style=for-the-badge&&logoWidth=30" />
 	</a>
 	<a href="https://steamcommunity.com/id/Yucked/">
-	    <img src="https://img.shields.io/badge/Steam%20Profile-333333?logoColor=white&logo=steam&style=for-the-badge&&logoWidth=30" />
+	    <img src="https://img.shields.io/badge/Add Me On Steam-333333?logoColor=white&logo=steam&style=for-the-badge&&logoWidth=30" />
 	</a>
 	<a href="">
 	    <img src="https://img.shields.io/badge/GAIQHHUQ5ZHCOWARR7VVLXQHXDMQ7YGYVNUHYE4VKYKXLP524P4IL3TW-9003fc?logoColor=white&logo=stellar&style=for-the-badge&&logoWidth=30" />
