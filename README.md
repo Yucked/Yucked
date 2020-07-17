@@ -7,13 +7,13 @@
   <br>
   <p align="center">
 	<a href="https://discord.gg/ZJaVXK8">
-	    <img src="https://img.shields.io/badge/Join My-Discord!-%237289DA.svg?logo=discord&style=for-the-badge&logoWidth=30&labelColor=474747" />
+	    <img src="https://img.shields.io/badge/Add%20Me%20On%20Discord-428df5?logoColor=white&logo=discord&style=for-the-badge&&logoWidth=30" />
 	</a>
 	<a href="https://steamcommunity.com/id/Yucked/">
-	    <img src="https://img.shields.io/badge/Add Me On-Steam!-%2335dbd3.svg?logo=steam&style=for-the-badge&logoWidth=30&labelColor=474747" />
+	    <img src="https://img.shields.io/badge/Steam%20Profile-333333?logoColor=white&logo=steam&style=for-the-badge&&logoWidth=30" />
 	</a>
-	<a href="https://keybase.io/VYSN">
-	    <img src="https://img.shields.io/keybase/xlm/VYSN?color=ff6c3b&label=XLM&logo=Keybase&style=for-the-badge&logoWidth=30" />
+	<a href="">
+	    <img src="https://img.shields.io/badge/GAIQHHUQ5ZHCOWARR7VVLXQHXDMQ7YGYVNUHYE4VKYKXLP524P4IL3TW-9003fc?logoColor=white&logo=stellar&style=for-the-badge&&logoWidth=30" />
 	</a>
   </p>
 </p>
