@@ -7,7 +7,7 @@
   <br>
   <p align="center">
 	<a href="https://discord.gg/ZJaVXK8">
-	    <img src="https://img.shields.io/badge/Add%20Me%20On%20Discord-428df5?logoColor=white&logo=discord&style=for-the-badge&&logoWidth=30" />
+	    <img src="https://img.shields.io/badge/Add%20Me%20On%20Discord-7289DA?logoColor=white&logo=discord&style=for-the-badge&&logoWidth=30" />
 	</a>
 	<a href="https://steamcommunity.com/id/Yucked/">
 	    <img src="https://img.shields.io/badge/Steam%20Profile-333333?logoColor=white&logo=steam&style=for-the-badge&&logoWidth=30" />
