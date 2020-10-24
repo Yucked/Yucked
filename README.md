@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://imgur.com/gN1AGb1.png" />
+	<img src="https://i.imgur.com/FxSSmfP.png" />
 	</br>
 	<p align="center">
 	     👋 Hey! I'm Yucked! (Nickname is Tj). I love developing in .NET primiarly but I also love learning and discovering new technologies.
