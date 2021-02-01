@@ -13,7 +13,7 @@
 	    <img src="https://img.shields.io/badge/Add Me On Steam-333333?logoColor=white&logo=steam&style=for-the-badge&&logoWidth=30" />
 	</a>
 	<a href="">
-	    <img src="https://img.shields.io/badge/GAIQHHUQ5ZHCOWARR7VVLXQHXDMQ7YGYVNUHYE4VKYKXLP524P4IL3TW-9003fc?logoColor=white&logo=stellar&style=for-the-badge&&logoWidth=30" />
+	    <img src="https://img.shields.io/badge/Yucked*stellarport.io-9003fc?logoColor=white&logo=stellar&style=for-the-badge&&logoWidth=30" />
 	</a>
   </p>
 </p>
